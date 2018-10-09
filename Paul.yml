@@ -1,1 +1,10 @@
-foo: Production
+info:
+  description: Spring Cloud Samples123pol
+  url: https://github.com/spring-cloud-samples123pol
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/pol
+
+
+foo: mikePaul
